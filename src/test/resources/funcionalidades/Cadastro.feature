@@ -25,6 +25,7 @@ Funcionalidade: Testar o cadastro de usuario
       | nome 						  | email									  | senha	   |
       | 								  | gabrielfernardes@dlh.de | 12345678 |
       | Gabriel Fernandes | 										    | 12345678 |
+      | Gabriel Fernandes | 										    | 12345678 |
       | Gabriel Fernandes | gabrielfernardes@dlh.de | 				 |
       | Gabriel 					| gabrielfernardes@dlh.de | 12345678 |
       | Gabriel Fernandes | gabrielfernardes			  | 12345678 |

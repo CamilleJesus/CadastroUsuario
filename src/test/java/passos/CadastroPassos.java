@@ -102,7 +102,7 @@ public class CadastroPassos {
     public void capturarTela() {
       dir = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
       try {
-      FileUtils.copyFile(dir, new File("C:\\CapturasTela\\" + dataHoraAtual() + ".png"));
+      FileUtils.copyFile(dir, new File("target/screenshots/" + dataHoraAtual() + ".png"));
     } catch (IOException e) {
       e.printStackTrace();
     }
